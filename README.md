@@ -10,7 +10,9 @@ pip install requirements.txt
 
 # Usage
 python domain-finder.py
+
 Enter txt file path (e.g C:/demo.txt or demo.txt)
+
 Enter your target ip (e.g 127.0.0.1 or google.com)
 
 # screenshots
