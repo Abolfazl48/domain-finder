@@ -2,7 +2,7 @@
 Finds all the domains in the list with the same IP
 
 # installation
-git clone https://github.com/abolfazl48/domain-finder.git
+git clone https://github.com/Abolfazl48/domain-finder.git
 
 cd domain-finder
 
