@@ -6,7 +6,7 @@ git clone https://github.com/abolfazl48/domain-finder.git
 
 cd domain-finder
 
-pip3 install -r requirements.txt
+pip install requirements.txt
 
 # Usage
 python domain-finder.py
