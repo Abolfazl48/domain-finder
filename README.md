@@ -4,11 +4,11 @@ Finds all the domains in the list with the same IP
 # installation
 git clone https://github.com/Abolfazl48/domain-finder.git
 
-cd domain-finder
-
 pip install requirements.txt
 
 # Usage
+cd domain-finder
+
 python domain-finder.py
 
 Enter txt file path (e.g C:/demo.txt or demo.txt)
