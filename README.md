@@ -1,5 +1,5 @@
 # domain-finder
-Finds all the domains in the list with the same IP
+Finds all domains in the file with the same IP
 
 # installation
 git clone https://github.com/Abolfazl48/domain-finder.git
